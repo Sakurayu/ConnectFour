@@ -17,4 +17,4 @@ Load File: <br>
 Other Instructions: N/A <br>
 
 ## Sample ScreenShot
-![ScreenShot](../master/ConnectFour/Connect_Four_Demo.JPG)
+![ScreenShot](https://image.ibb.co/mJWc4x/Connect_Four_Demo.jpg)
